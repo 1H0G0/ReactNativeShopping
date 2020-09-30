@@ -5,7 +5,10 @@ Simple react native shopping list
 
 ``` bash
 # Dependencies
+#Android
 npm install
+
+#iOS
 cd ios && pod install && cd ..
 
 # Run on iOS
